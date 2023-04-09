@@ -121,23 +121,29 @@ plt.axis("off")
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![output](./n1.jpeg)
 
 ii) Using Weighted Averaging Filter
+
 ![output](./n2.jpeg)
 
 iii) Using Gaussian Filter
+
 ![output](./n3.jpeg)
 
 iv) Using Median Filter
+
 ![output](./n4.jpeg)
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+
 ![output](./n5.jpeg)
 
 ii) Using Laplacian Operator
+
 ![output](./n6.jpeg)
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
