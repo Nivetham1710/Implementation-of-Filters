@@ -22,7 +22,7 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 
 ## Program:
 ### Developed By   : Nivetha M
-### Register Number:21221240034
+### Register Number:212221240034
 ~~~
 import cv2
 import numpy as np
